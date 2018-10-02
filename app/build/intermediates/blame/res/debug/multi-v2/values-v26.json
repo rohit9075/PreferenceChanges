@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Sqlite Exercies\\PreferenceChanges\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\Rohit Kumar\\Desktop\\Examples\\PreferenceChanges\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Rohit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\82c1b224bd13abb371c7b1e3b4e668c3\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Rohit Kumar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f4293281efebe1e20f9f35b1d291083e\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Rohit\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\417686503f1e3c2b6ebb242ff8cc6563\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Rohit Kumar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\37baeb94d7837030c1a2a82a1294d8d6\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

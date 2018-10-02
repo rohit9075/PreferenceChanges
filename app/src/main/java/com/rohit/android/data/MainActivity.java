@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -48,6 +49,9 @@ public class MainActivity extends AppCompatActivity {
 
         if (grid){
             recyclerView.setLayoutManager(new GridLayoutManager(this, 3));
+        }
+        else {
+            recyclerView.setLayoutManager(new LinearLayoutManager(this));
         }
         recyclerView.setAdapter(adapter);
     }
